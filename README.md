@@ -16,8 +16,7 @@ A simple and modern task management application, built using Next.js, TypeScript
 ### 1. Project Installation
 
 ```bash
-git clone https://github.com/your-username/todo-zustand-tailwind.git
-npm i
+npm install
 npm run dev
 
 ```
